@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior QA Manager & Lead
 ------------------------
 
-I've being learning Test Automation for more than 5 years. I have started with Selenium, and currently found my passion with Cypress.
+I've being learning Test Automation for more than 6 years. I have started with Selenium, Cypress and currently found my passion with Playwright. I also have some experince with Native App test automation using Detox.
 
 * 🌍  I'm originally from Ukraine and currently based in Alanya, Turkey.
 * ✉️  You can contact me at [mariia\_khairi@inbox.ru](mailto:mariia_khairi@inbox.ru)
@@ -12,7 +12,6 @@ I've being learning Test Automation for more than 5 years. I have started with S
 * 🤝  I'm open to collaborating on interesting projects
 * 👩‍💻 [My AI art](https://www.instagram.com/aiart_love/)
   
-💐 Have a nice Day!🌷
 
 <a href="https://www.github.com/mariiakhairi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mariiakhairi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
